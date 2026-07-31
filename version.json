@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "url": "test",
+  "version": "2.0.0",
+  "url": "https://github.com/veracity-nuclear/VERACore/releases",
   "mandatory": false,
   "min_supported": "1.0.0",
-  "published": "2026-07-28T14:30:00Z",
-  "notes": "test"
+  "published": "2026-07-31T17:34:11Z",
+  "notes": ""
 }
